@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Justin
 I'm a career changer transitioning from 23 years in logistics to data analytics. I'm passionate about using data to find insights and solve real-world problems.
 
 ## 🚀 Current Focus
@@ -18,4 +18,4 @@ I'm a career changer transitioning from 23 years in logistics to data analytics.
 | [Customer Churn Report](./customer-churn-report) | SQL + Excel project on customer retention | SQL, Excel |
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/) | [Email](mailto:your@email.com)
+LinkedIn | Email jcbowers75@gmail.com
